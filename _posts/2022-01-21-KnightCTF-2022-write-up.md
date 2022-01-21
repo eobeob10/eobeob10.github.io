@@ -10,7 +10,7 @@ Big ups for all the team that worked on this ctf.
 
 ### Starters 
 
-During this CTF, i've chosen to publish write-ups for Networking, OSINT, Web, and some other challenges here-and-there.
+During this CTF, i've chosen to publish write-ups for Networking and  OSINT.
 
 ---
 
@@ -112,6 +112,4 @@ Another OSINT challenge and another Google Search, If you search for the Copyrig
 ![Find_the_Camera1](https://github.com/eobeob10/eobeob10.github.io/blob/main/_posts/2022-01-21-KnightCTF-2022-write-up/Find_The_Camera1.png?raw=true)
 
 Look up for the DSC-S980 model and you'll find out that it's a Sony Camera, put the information you've collected in the Flag format and boom you're done.
-
-![Admin_Arena](https://github.com/eobeob10/eobeob10.github.io/blob/main/_posts/2022-01-21-KnightCTF-2022-write-up/Admin_Arena.png?raw=true)
 
