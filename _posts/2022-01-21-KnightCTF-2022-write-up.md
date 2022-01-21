@@ -1,6 +1,6 @@
-## KnightCTF - 2022 Writeup
+## KnightCTF - 2022 Write-up
 
-I'll take you with this writeup through some of the challenges I've solved during KnightCTF-2022. 
+I'll take you with this write-up through some of the challenges I've solved during KnightCTF-2022. 
 
 The CTF was beginner-friendly with some challenges being a bit harder than others.
 
