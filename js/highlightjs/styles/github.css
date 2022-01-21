@@ -8,20 +8,20 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
   display: block;
   overflow-x: auto;
   padding: 0.5em;
-  color: #333;
-  background: #f8f8f8;
+  color: #adb5bd;
+  background: #1f242A;
 }
 
 .hljs-comment,
 .hljs-quote {
-  color: #998;
+  color: #91A7FF;
   font-style: italic;
 }
 
 .hljs-keyword,
 .hljs-selector-tag,
 .hljs-subst {
-  color: #333;
+  color: #74c0fc;
   font-weight: bold;
 }
 
