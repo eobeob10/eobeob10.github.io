@@ -113,3 +113,4 @@ Another OSINT challenge and another Google Search, If you search for the Copyrig
 
 Look up for the DSC-S980 model and you'll find out that it's a Sony Camera, put the information you've collected in the Flag format and boom you're done.
 
+![A test image](image.png)
