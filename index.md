@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hello, i'm Adem Hmissa, a computer science engineering student.
 
-Maybe say a some things about yourself.
+I'm interested in Cybersecurity.
 
-Or maybe what you plan to blog about.
+I'll be sharing some CTF write-up's I participated in and some of my personal projects. Feel free to contact me if you have any questions or need help ! 
