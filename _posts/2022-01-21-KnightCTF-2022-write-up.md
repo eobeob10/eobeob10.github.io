@@ -10,7 +10,7 @@ Big ups for all the team that worked on this ctf.
 
 ### Starters 
 
-During this CTF, i've chosen to publish writeups for Networking and  OSINT.
+During this CTF, i've chosen to publish writeups for Networking and OSINT.
 
 ---
 
